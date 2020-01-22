@@ -1,0 +1,2 @@
+prac7_data/Lsatdata/ filter=lfs diff=lfs merge=lfs -text
+prac7_data/Lsatdata filter=lfs diff=lfs merge=lfs -text
